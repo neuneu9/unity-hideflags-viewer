@@ -27,6 +27,12 @@
       },
       "url": "https://packages.unity.com"
     },
+    "jp.neuneu9.hideflags-viewer": {
+      "version": "file:jp.neuneu9.hideflags-viewer",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,

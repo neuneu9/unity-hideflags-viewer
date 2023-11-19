@@ -1,0 +1,11 @@
+{
+  "name": "jp.neuneu9.hideflags-viewer",
+  "displayName": "HideFlags Viewer",
+  "version": "0.1.0",
+  "unity": "2020.3",
+  "description": "",
+  "author": {
+    "name": "neuneu9",
+    "url": "https://github.com/neuneu9"
+  }
+}
